@@ -97,3 +97,5 @@ You can also include:
 
 
 ### 1️⃣ Clone the repository
+   git clone https://github.com/maheshds6430-cmd/E-commerce-purchase-intention-model.git
+
