@@ -65,7 +65,7 @@ simplefilter("ignore", category=ConvergenceWarning)
 
 print("Step 2: Created DataFrame successfully")
 
-df = pd.read_csv("online_shoppers_intention.csv")
+pd.read_csv("data/online_shoppers_intention.csv")
 
 
 
